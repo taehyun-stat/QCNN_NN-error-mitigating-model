@@ -1,0 +1,25 @@
+1. Data Preparation
+1.data.py
+
+2. QCNN circuit
+2.0 CNN.py
+2.1 Angular_hybrid.py
+2.2 embedding.py
+2.3 unitary.py
+2.4 QCNN_circuit.py
+
+
+3. QCNN Trainining
+3.Training.py
+
+4. Benchmarking
+4.Benchmarking.py
+
+5. result
+5.result
+
+6. Quantum Convolutional Neural Network (QCNN) and Hierarchical Quantum Classifier circuit.
+6.1 Hierarchical_circuit
+6.2 embedding.py
+6.2 Hybrid_embedding_accuracy
+6.3 Hybrid_embedding_entanglement
